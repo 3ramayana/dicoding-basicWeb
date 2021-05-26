@@ -253,7 +253,12 @@ nav {
 
 .main-title {
   font-size: 1.8rem;
+  font-weight: 300;
   margin-bottom: 15px;
+}
+
+.bold {
+  font-weight: 700;
 }
 
 .desc-title {
