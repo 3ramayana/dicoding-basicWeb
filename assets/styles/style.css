@@ -412,6 +412,11 @@ nav {
   border-radius: 10px;
   display: flex;
   align-items: center;
+  transition: 0.3s;
+}
+
+.card-second:hover {
+  transform: scale(0.95);
 }
 
 .card-second-img {
